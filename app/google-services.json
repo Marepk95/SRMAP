@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "43321428258",
+    "firebase_url": "https://srmap-kik15skn-default-rtdb.firebaseio.com",
+    "project_id": "srmap-kik15skn",
+    "storage_bucket": "srmap-kik15skn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43321428258:android:35f17a12076bc16796fd7b",
+        "android_client_info": {
+          "package_name": "com.convertmyfile.smartrollcallmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43321428258-qpcrpvv0jro55kekc892hb9q8m1elh67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.convertmyfile.smartrollcallmanagementsystem",
+            "certificate_hash": "743a8e1714ea662bb281ae3507ebe88de93308bf"
+          }
+        },
+        {
+          "client_id": "43321428258-snf1g5f17n5q1kub7fgtg6lqjj8va6ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWcDeqKsTTocpkKQgPWv7cIPEI_VA7oCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43321428258-snf1g5f17n5q1kub7fgtg6lqjj8va6ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
